@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">5</string>
+    <string name="settings_all">Все</string>
+    <string name="settings_add">Добавить</string>
+    <string name="settings_edit">Редактировать</string>
+    <string name="settings_delete">Удалить</string>
+    <string name="settings_find_by_department">Абоненты по тарифу</string>
+    <string name="settings_find_by_birth">Абоненты по дате регистрации</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="department">Тариф</string>
+    <string name="group">Оператор</string>
+    <string name="birth">Дата регистрации тарифа</string>
+    <string name="add">Добавить</string>
+    <string name="edit">Изменить</string>
+    <string name="student_tab">Абоненты</string>
+    <string name="detail_tab">Подробнее</string>
+    <string name="map_tab">Карта</string>
+    <string name="theme_default">Стандартная</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_color">Цветная</string>
+    <string name="themes">Темы</string>
+    <string name="find">Поиск</string>
+    <string name="students">Телефонная компания</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

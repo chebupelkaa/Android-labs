@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="Base.Theme.Default" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#673AB7</item>
+    </style>
+
+    <style name="Base.Theme.Dark" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#696969</item>
+    </style>
+
+    <style name="Base.Theme.Color" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#FF0000</item>
+    </style>
+</resources>

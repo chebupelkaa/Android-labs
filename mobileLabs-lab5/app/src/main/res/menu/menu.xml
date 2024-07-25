@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:Context=".MainActivity">
+    <item
+        android:id="@+id/all"
+        android:orderInCategory="1"
+        android:title="@string/settings_all" />
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="1"
+        android:title="@string/settings_add" />
+
+    <item
+        android:id="@+id/edit"
+        android:orderInCategory="2"
+        android:title="@string/settings_edit" />
+
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="3"
+        android:title="@string/settings_delete" />
+    <item
+        android:id="@+id/find"
+        android:orderInCategory="4"
+        android:title="@string/find">
+        <menu>
+            <item
+                android:id="@+id/find_by_department"
+                android:title="@string/settings_find_by_department" />
+
+            <item
+                android:id="@+id/find_by_birth"
+                android:title="@string/settings_find_by_birth" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/themes"
+        android:orderInCategory="6"
+        android:title="@string/themes">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/theme_default"
+                    android:title="@string/theme_default" />
+                <item
+                    android:id="@+id/theme_dark"
+                    android:title="@string/theme_dark" />
+                <item
+                    android:id="@+id/theme_color"
+                    android:title="@string/theme_color" />
+            </group>
+        </menu>
+    </item>
+</menu>
