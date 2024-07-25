@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="behavior_options">
+        <item>Выбрать поведение</item>
+        <item>Хорошее</item>
+        <item>Плохое</item>
+        <item>Очень плохое</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Книжка2</string>
+    <style name="Base.Theme.MyApplicationEkz2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplicationEkz2" parent="Base.Theme.MyApplicationEkz2"/>
+</resources>
