@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication1_2</string>
+    <string name="Vasya">Вася</string>
+    <string name="Petya">Петя</string>
+    <string name="Masha">Маша</string>
+    <string name="Misha">Миша</string>
+    <string name="Tanya">Таня</string>
+    <string name="Manya">Маня</string>
+    <string name="Kotya">Котя</string>
+    <string name="Motya">Мотя</string>
+</resources>

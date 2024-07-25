@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Книги</string>
+
+    <string-array name="authors">
+        <item>Все авторы</item>
+        <item>Пушкин</item>
+        <item>Лермонтов</item>
+        <item>Толстой</item>
+    </string-array>
+
+</resources>
