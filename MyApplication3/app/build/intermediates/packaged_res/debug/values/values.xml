@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add">Добавить</string>
+    <string name="app_name">Больница</string>
+    <string name="corona">С короновирусом</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="phones">Номера телефонов начинающихся с 23</string>
+    <style name="Base.Theme.MyApplication3" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication3" parent="Base.Theme.MyApplication3"/>
+</resources>

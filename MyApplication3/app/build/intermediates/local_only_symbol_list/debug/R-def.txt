@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addItem
+id buttonAdd
+id coronasItem
+id deleteItem
+id editItem
+id editTextDiagnos
+id editTextPhone
+id editTextSurname
+id gridViewPatients
+id patientListView
+id phonesItem
+id textViewDiagnos
+id textViewPhone
+id textViewSurname
+id toolbar
+layout activity_add_patient
+layout activity_main
+layout activity_patients
+menu main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add
+string app_name
+string corona
+string delete
+string edit
+string phones
+style Base.Theme.MyApplication3
+style Theme.MyApplication3
+xml backup_rules
+xml data_extraction_rules
